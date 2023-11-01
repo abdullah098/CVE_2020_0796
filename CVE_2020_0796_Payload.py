@@ -5,8 +5,8 @@ OFFSETS = {
     'srvnet!SrvNetWskConnDispatch': 0x2D170,
     'srvnet!imp_IoSizeofWorkItem': 0x32210,
     'srvnet!imp_RtlCopyUnicodeString': 0x32288,
-    'nt!IoSizeofWorkItem': 0x12C410,
-    'nt!MiGetPteAddress': 0xBA968
+    'nt!IoSizeofWorkItem': 0x12C370,
+    'nt!MiGetPteAddress': 0xBAFA8
 }
 
 LOOKASIDE_RELATED_ITERATIONS = 4
