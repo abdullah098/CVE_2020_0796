@@ -1,6 +1,6 @@
-#READ ME
+# README
 
-#Author Abdullah Iqbal
+# Author **Abdullah Iqbal**
 
 Install **windows 10 version 1903** on a virtual machine.
 
